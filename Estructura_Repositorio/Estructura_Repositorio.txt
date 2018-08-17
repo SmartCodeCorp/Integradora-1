@@ -1,0 +1,65 @@
+Administración de la configuración (carpeta)
+	Procesos (sub-carpeta)
+		Plan de CM [Plantilla]
+		Solicitudes de cambio [Plantilla]
+	Andrés - Plan de CM
+	Andrés - Solicitudes de cambio (todas las generadas en el proyecto)
+
+Aseguramientos de calidad (carpeta)
+	Procesos (sub-carpeta)
+		Lecciones aprendidas [Plantilla]
+		No conformidades [Plantilla]
+		Criterios de revisión de procesos [Plantilla]
+	Erick - Lecciones aprendidas
+	Erick - No conformidades
+	Erick - Criterios de revisión de procesos
+	
+Gestión de requerimientos (carpeta)
+	Procesos (sub-carpeta)
+		SRS [Plantilla]
+		DB de requerimientos [Plantilla]
+		Diagramas de casos de uso [Plantilla]
+	Andres - SRS
+	Andres - DB de requerimientos
+	Freddi -Diagramas de casos de uso
+	Diagrama E-R
+	Diagrama Relacional
+	Freddi - Diagrama de clases
+
+Planeación del proyecto (carpeta)
+	Procesos (sub-carpeta)
+		Acta de Inicio  [Plantilla]
+		Ciclo de vida [Plantilla]
+		Minuta [Plantilla]
+		Alcance [Plantilla]
+		Matriz de responsabilidades [Plantilla]
+		Matriz de Comunicación [Plantilla]
+		Plan de licitación [Plantilla]
+		Plan de contingencia [Plantilla]
+		Herramienta de control de riesgos [Plantilla]
+		Base de datos de riesgos  [Plantilla]
+		Plan de administración de riesgos [Plantilla]
+		Acta de cierre [Plantilla]
+	Acta de Inicio
+	Ciclo de vida
+	Minuta
+	Organigrama
+	WBS
+	Alcance
+	Matriz de responsabilidades.
+	Matriz de Comunicación.
+	Plan de licitación
+	Administración de riesgos (sub-carpeta)
+		Plan de contingencia.
+		Herramienta de control de riesgos
+		Base de datos de riesgos 
+		Plan de administración de riesgos
+	Cierre de proyecto (sub-carpeta)
+		Acta de cierre
+
+
+NOTA: todos los elementos que no tengan el complemento de:
+	* (carpeta)
+	* (sub-carpeta)
+	* [Plantilla]
+      deberán de ser los documentos desarrollados para le proyecto específico.
